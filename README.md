@@ -61,7 +61,7 @@ Program ini dibagi ke dalam dua package utama, yaitu:
      5. Tampilkan total penjualan barang.
      6. Keluar dari program.
 
-![Screenshot 2024-10-14 223001](https://github.com/user-attachments/assets/ccc79651-e063-4fe6-b0b0-a4e159073373)
+     ![Screenshot 2024-10-14 223001](https://github.com/user-attachments/assets/ccc79651-e063-4fe6-b0b0-a4e159073373)
 
 4. **Input Pengguna dan Percabangan**
    - Pengguna memasukkan pilihan angka dari menu.
